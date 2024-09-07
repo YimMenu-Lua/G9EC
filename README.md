@@ -1,2 +1,2 @@
 # G9EC
-Enables next-gen exclusive 
+Enables next-gen exclusive (PlayStation 5 & Xbox Series X|S) clothing items in the store. If the item has textures on PC, you will be able to wear it. Otherwise, it will show up on you as an empty asset.
